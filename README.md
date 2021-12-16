@@ -9,6 +9,5 @@ https://github.com/dudqls1441/Dogwhere
 
 https://github.com/dbsdud1025/DogWhere_web
 
-http://maniatoo.cafe24.com/
 
 
