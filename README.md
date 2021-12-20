@@ -10,5 +10,4 @@
     * https://github.com/dudqls1441/Dogwhere
 
 * SSol.StudyCafe 웹 (진행중)
-    * https://github.com/dbsdud1025/Ssol_StudyCafe
-
+    * https://github.com/dbsdud1025/SSol-StudyCafe
