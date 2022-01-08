@@ -9,5 +9,5 @@
 * 반려견 분실 방지 웹 '나어디개'
     * https://github.com/dbsdud1025/DogWhere_web
 
-* SSol.StudyCafe Web (진행중)
+* SSol.StudyCafe Web 
     * https://github.com/dbsdud1025/SSol-StudyCafe
